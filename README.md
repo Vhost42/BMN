@@ -1,3 +1,3 @@
 # BMN
 
-Introduction for WP
+Introduction for WP v.1.0
